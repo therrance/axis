@@ -1,0 +1,20 @@
+{
+  "name": "react-timeseries-charts-axis-color",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/vvzl6jkjw0",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "2.22.0",
+    "pondjs": "0.8.8",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-hot-loader": "4.1.3",
+    "react-select": "1.2.1",
+    "react-timeseries-charts": "0.15.3",
+    "react-transition-group": "2.2.1",
+    "reactstrap": "5.0.0-alpha.3",
+    "underscore": "1.8.3"
+  }
+}
